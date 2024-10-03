@@ -1,0 +1,15 @@
+c:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\bin\Debug\net8.0\AtividadeBombaDagua.exe
+C:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\bin\Debug\net8.0\AtividadeBombaDagua.deps.json
+C:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\bin\Debug\net8.0\AtividadeBombaDagua.runtimeconfig.json
+c:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\bin\Debug\net8.0\AtividadeBombaDagua.dll
+c:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\bin\Debug\net8.0\AtividadeBombaDagua.pdb
+c:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\obj\Debug\net8.0\AtividadeBombaDagua.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\obj\Debug\net8.0\AtividadeBombaDagua.AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\obj\Debug\net8.0\AtividadeBombaDagua.AssemblyInfo.cs
+c:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\obj\Debug\net8.0\AtividadeBombaDagua.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\obj\Debug\net8.0\AtividadeBombaDagua.sourcelink.json
+c:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\obj\Debug\net8.0\AtividadeBombaDagua.dll
+c:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\obj\Debug\net8.0\refint\AtividadeBombaDagua.dll
+c:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\obj\Debug\net8.0\AtividadeBombaDagua.pdb
+C:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\obj\Debug\net8.0\AtividadeBombaDagua.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\adri\AtividadeBombaDagua\AtividadeBombaDagua\obj\Debug\net8.0\ref\AtividadeBombaDagua.dll
